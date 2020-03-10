@@ -7,3 +7,4 @@ config/local.*
 config/local-*.*
 config/local-*-*.*
 package-lock.json
+.idea
